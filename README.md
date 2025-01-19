@@ -1,8 +1,18 @@
 # Trime_Theme
-同文输入法主题
+
+### 最像Gboard的[同文输入法](https://github.com/osfans/trime)主题
  * 高仿Gboard主题
- * 目前只做了26键的蓝暗色
-附带我的快捷栏代码
+ * 目前只做了26键的蓝色夜间
+
+### 效果预览
+![](./Preview/IMG_20250119_133405.jpg)
+![](./Preview/IMG_20250119_133415.jpg)
+![](./Preview/IMG_20250119_133430.jpg)
+
+### Gboard
+![](./Preview/IMG_20250118_230946.jpg)
+
+### 附带我的快捷栏代码
 ```yaml
     switches:
   - name: transcription
